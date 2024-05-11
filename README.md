@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# yuxiaooye.github.io
+Repository for my academic research website.
